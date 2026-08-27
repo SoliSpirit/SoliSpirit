@@ -18,7 +18,7 @@
 
 <div align="center">
 
-> **The internet was built to be free for everyone — and it should stay that way.**
+> **The internet should be free for everyone.**
 >
 > Building, sharing and contributing to an open internet where access to information and communication belongs to everyone.
 
