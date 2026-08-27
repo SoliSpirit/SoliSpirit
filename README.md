@@ -40,6 +40,15 @@
 
 </div>
 
+<div align="center">
+
+### ⭐ My Projects
+
+<a href="https://github.com/SoliSpirit/mtproto">🔗 **mtproto**</a>
+  •   <a href="https://github.com/SoliSpirit/v2ray-configs">🔗 **v2ray-configs**</a>
+
+</div>
+
 <br>
 
 ## 📊 GitHub Overview
