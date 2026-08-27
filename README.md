@@ -18,12 +18,9 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/SoliSpirit/mtproto">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SoliSpirit&repo=mtproto&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/SoliSpirit/v2ray-configs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SoliSpirit&repo=v2ray-configs&theme=tokyonight" />
-  </a>
+  <a href="https://github.com/SoliSpirit/mtproto"><b>🔹 mtproto</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/SoliSpirit/v2ray-configs"><b>🔹 v2ray-configs</b></a>
 </p>
 
 ---
@@ -31,11 +28,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoliSpirit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SoliSpirit&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/SoliSpirit?tab=repositories">📦 Repositories</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/SoliSpirit?tab=stars">⭐ Stars</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/SoliSpirit?tab=followers">👥 Followers</a>
 </p>
 
 ---
@@ -43,7 +40,7 @@
 ## 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoliSpirit&theme=tokyo-night&hide_border=true" />
+  <a href="https://github.com/SoliSpirit">View GitHub Activity →</a>
 </p>
 
 ---
