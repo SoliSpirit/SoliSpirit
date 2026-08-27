@@ -30,12 +30,22 @@
 
 <div align="center">
 
+<a href="https://github.com/SoliSpirit/v2ray-configs">
+  <img src="https://opengraph.githubassets.com/1/SoliSpirit/v2ray-configs" width="47%" alt="v2ray-configs" />
+</a>
+&nbsp;
+<a href="https://github.com/SoliSpirit/proxy-list">
+  <img src="https://opengraph.githubassets.com/1/SoliSpirit/proxy-list" width="47%" alt="proxy-list" />
+</a>
+
+<br><br>
+
 <a href="https://github.com/SoliSpirit/mtproto">
   <img src="https://opengraph.githubassets.com/1/SoliSpirit/mtproto" width="47%" alt="mtproto" />
 </a>
 &nbsp;
-<a href="https://github.com/SoliSpirit/v2ray-configs">
-  <img src="https://opengraph.githubassets.com/1/SoliSpirit/v2ray-configs" width="47%" alt="v2ray-configs" />
+<a href="https://github.com/SoliSpirit/SolVPN">
+  <img src="https://opengraph.githubassets.com/1/SoliSpirit/SolVPN" width="47%" alt="SolVPN" />
 </a>
 
 </div>
