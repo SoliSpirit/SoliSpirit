@@ -18,9 +18,9 @@
 
 <div align="center">
 
-> **Just another human building things on the internet.**
+> **The internet was built to be free — and it should stay that way.**
 >
-> Projects, experiments, open-source work and whatever I find interesting.
+> Building, sharing and contributing to an open internet where access to information and communication belongs to everyone.
 
 </div>
 
