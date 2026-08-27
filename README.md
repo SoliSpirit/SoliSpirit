@@ -18,7 +18,7 @@
 
 <div align="center">
 
-> **The internet was built to be free for everyone — and it should stay that way.**
+> **The internet was built for freedom — for everyone.**
 >
 > Building, sharing and contributing to an open internet where access to information and communication belongs to everyone.
 
@@ -33,7 +33,7 @@
 <a href="https://github.com/SoliSpirit/v2ray-configs">
   <img src="https://opengraph.githubassets.com/1/SoliSpirit/v2ray-configs" width="47%" alt="v2ray-configs" />
 </a>
-&nbsp;
+
 <a href="https://github.com/SoliSpirit/proxy-list">
   <img src="https://opengraph.githubassets.com/1/SoliSpirit/proxy-list" width="47%" alt="proxy-list" />
 </a>
@@ -43,7 +43,7 @@
 <a href="https://github.com/SoliSpirit/mtproto">
   <img src="https://opengraph.githubassets.com/1/SoliSpirit/mtproto" width="47%" alt="mtproto" />
 </a>
-&nbsp;
+
 <a href="https://github.com/SoliSpirit/SolVPN">
   <img src="https://opengraph.githubassets.com/1/SoliSpirit/SolVPN" width="47%" alt="SolVPN" />
 </a>
