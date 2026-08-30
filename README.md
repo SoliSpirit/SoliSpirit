@@ -8,7 +8,10 @@
 
 <br><br>
 
-<a href="https://github.com/SoliSpirit?tab=repositories"><img src="https://img.shields.io/badge/Repositories-18181B?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://github.com/SoliSpirit?tab=stars"><img src="https://img.shields.io/badge/Stars-18181B?style=for-the-badge&logo=github&logoColor=yellow" /></a> <a href="https://github.com/SoliSpirit?tab=followers"><img src="https://img.shields.io/badge/Followers-18181B?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
+<a href="https://github.com/SoliSpirit?tab=repositories"><img src="https://img.shields.io/badge/Repositories-18181B?style=for-the-badge&logo=github&logoColor=white" /></a> 
+<a href="https://github.com/SoliSpirit?tab=stars"><img src="https://img.shields.io/badge/Stars-18181B?style=for-the-badge&logo=github&logoColor=yellow" /></a> 
+<a href="https://github.com/SoliSpirit?tab=followers"><img src="https://img.shields.io/badge/Followers-18181B?style=for-the-badge&logo=github&logoColor=00E5FF" /></a> 
+<a href="#support-my-work"><img src="https://img.shields.io/badge/Donate-FF69B4?style=for-the-badge&logo=githubsponsors&logoColor=white" /></a>
 
 </div>
 
@@ -18,9 +21,9 @@
 
 <div align="center">
 
-> **The internet should be free for everyone.**
+> **"Uncensored, borderless, and free — internet access is a fundamental right, not a privilege."**
 >
-> Building, sharing and contributing to an open internet where access to information and communication belongs to everyone.
+> Dedicated to building open-source tools, bypassing censorship, and empowering everyone to communicate and access information freely without boundaries.
 
 </div>
 
@@ -67,6 +70,7 @@
 
 <br>
 
+<a id="support-my-work"></a>
 ## 💖 Support My Work
 
 <div align="center">
@@ -75,7 +79,7 @@ If you enjoy my projects or find them useful, you can support their development 
 
 <br><br>
 
-|    🪙 Coin    | Network | Address                                            |
+|     🪙 Coin    | Network | Address                                            |
 | :-----------: | :-----: | :------------------------------------------------- |
 | ₿ **Bitcoin** |   BTC   | `bc1qj8fvdf6gatud6mjuvh63uf7jcu4gmhk4uahhpv`       |
 |  💎 **GRAM**  |   TON   | `UQCHlji0UKOEZ4TPiCV87WXcxsLS14EMR9GkSe-uIzb0fx63` |
